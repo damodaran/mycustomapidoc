@@ -1,0 +1,4 @@
+mycustomapidoc
+==============
+
+my custom apidoc
